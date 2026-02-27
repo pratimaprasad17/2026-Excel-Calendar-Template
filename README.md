@@ -5,6 +5,8 @@ A clean and structured 2026 weekly planner built entirely in Microsoft Excel.
 This template is designed to be minimal, distraction-free, and easy to use.  
 The layout is protected to prevent accidental edits while keeping designated sections fully editable.
 
+👉 [Download here](2026-Excel-Calendar-Template.xlsx)
+
 ---
 
 ## ✨ Features
